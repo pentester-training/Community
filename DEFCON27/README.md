@@ -8,6 +8,11 @@ In addition, Attendees will learn to fight against WiFi Pineapple, KARMA attack 
 
 **for detail:** https://www.defcon.org/html/defcon-27/dc-27-workshops.html#altinok
 
+**Trainers:**
+
++ Besim Altinok Founder & CEO,Pentester Training
++ Bahtiyar Bircan Senior Consultant, Eurocontrol / EATM-CERT
+
 ### Requirements
 
 + Wireless adaptor
