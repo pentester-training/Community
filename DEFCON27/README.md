@@ -32,6 +32,7 @@ In addition, Attendees will learn to fight against WiFi Pineapple, KARMA attack 
 + Build your own WiFi Pentest Tools
 + Probe Requests
 + Threats in *-* wifi networks
++ Scenario-based Red Team attack over wifi
 + Fight against wifihackers
 + Recommendations for wifi security
 
