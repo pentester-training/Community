@@ -16,7 +16,7 @@ In addition, Attendees will learn to fight against WiFi Pineapple, KARMA attack 
 ### Requirements
 
 + Wireless adaptor
-**- Recommendations**
--- TPLINK TL-WN722N v1
--- Alfa AWUS036AC
++ **- Recommendations**
++ **--** TPLINK TL-WN722N v1
++ **--** Alfa AWUS036AC
 + KALI Linux (in VMware or physical)
