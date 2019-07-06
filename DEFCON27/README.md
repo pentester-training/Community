@@ -29,7 +29,7 @@ In addition, Attendees will learn to fight against WiFi Pineapple, KARMA attack 
 
 + Collect Information about WiFi
 + WiFi Backdoor Techiniques
-+ BYO WiFi Pentest Tools
++ Build your own WiFi Pentest Tools
 + Probe Requests
 + Threats in *-* wifi networks
 + Fight against wifihackers
