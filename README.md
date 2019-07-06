@@ -1,2 +1,2 @@
 # Community
-Training content for community
+Training contents for community
