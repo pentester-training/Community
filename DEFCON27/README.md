@@ -1,5 +1,9 @@
 ## Advanced Wireless Exploitation for Red Team and Blue Team (DEFCON27 Workshop)
 
+<p align="center">
+<img src="https://github.com/pentester-training/Community/blob/master/DEFCON27/rozet-v.png" height="%35" width="35%">
+</p>
+
 **General Informations about workshop**
 
 In this workshop, participants will be informed about attacks and defense of the wireless networks. Attendees will learn how to attack and gain access to WPA2-PSK and WPA2-Enterprise wifi networks, bypass network access controls, and gain administrative control over an Active Directory environment.
