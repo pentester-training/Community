@@ -24,3 +24,15 @@ In addition, Attendees will learn to fight against WiFi Pineapple, KARMA attack 
 + **--** TPLINK TL-WN722N v1
 + **--** Alfa AWUS036AC
 + KALI Linux (in VMware or physical)
+
+**Course Content:**
+
++ Collect Information about WiFi
++ WiFi Backdoor Techiniques
++ BYO WiFi Pentest Tools
++ Probe Requests
++ Threats in *-* wifi networks
++ Fight against wifihackers
++ Recommendations for wifi security
+
+
