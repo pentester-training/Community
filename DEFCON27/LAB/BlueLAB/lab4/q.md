@@ -1,1 +1,1 @@
-Can you detect WiFi Pineapple Activity?
+Can you detect WiFi Pineapple Activities?
