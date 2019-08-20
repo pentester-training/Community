@@ -36,4 +36,5 @@ In addition, Attendees will learn to fight against WiFi Pineapple, KARMA attack 
 + Fight against wifihackers
 + Recommendations for wifi security
 
-
+**Course DETAIL:**
++ https://www.pentester.training/defcon27-workshop
